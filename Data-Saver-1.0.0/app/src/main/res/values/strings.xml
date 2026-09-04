@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">DataSaver Shield</string>
-    <string name="vpn_channel_name">DataSaver Shield Service</string>
-    <string name="vpn_channel_desc">Active firewall and network restriction status</string>
-    <string name="vpn_running_title">DataSaver Shield Active</string>
-    <string name="vpn_running_desc">Filtering app internet traffic to save data</string>
-    <string name="vpn_action_stop">Stop Shield</string>
-</resources>
