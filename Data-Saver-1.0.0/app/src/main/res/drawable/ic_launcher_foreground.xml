@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glow Effect Behind Shield -->
+    <path
+        android:pathData="M54,23 L79,34 C79,59 66,74 54,85 C42,74 29,59 29,34 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="20"
+                android:endX="54"
+                android:endY="85"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#10B981" />
+                <item android:offset="1.0" android:color="#059669" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Inner Shield Accent -->
+    <path
+        android:pathData="M54,27 L74,36 C74,57 63,69 54,78 C45,69 34,57 34,36 Z"
+        android:fillColor="#047857" />
+    <!-- Network Wave / Lock glyph in center -->
+    <path
+        android:pathData="M54,39 C50.7,39 48,41.7 48,45 L48,48 C46.3,48 45,49.3 45,51 L45,61 C45,62.7 46.3,64 48,64 L60,64 C61.7,64 63,62.7 63,61 L63,51 C63,49.3 61.7,48 60,48 L60,45 C60,41.7 57.3,39 54,39 Z M54,42 C55.7,42 57,43.3 57,45 L57,48 L51,48 L51,45 C51,43.3 52.3,42 54,42 Z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M54,53 C52.9,53 52,53.9 52,55 C52,55.8 52.5,56.5 53.2,56.8 L53,60 L55,60 L54.8,56.8 C55.5,56.5 56,55.8 56,55 C56,53.9 55.1,53 54,53 Z"
+        android:fillColor="#047857" />
+</vector>

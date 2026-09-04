@@ -1,0 +1,6 @@
+{
+  "name": "DataSaver Shield",
+  "description": "Local Firewall & Network Restrictor to block or allow internet access per app and save mobile data without root.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
